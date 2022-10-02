@@ -37,10 +37,10 @@ else
 fi
 ```
 
-2. Created IAM policy _**AmazonManagedBlockchainControlPolicy**_ and role _**ServiceLinkedRoleForAmazonManagedBlockchain**_ - AdministratorAccess to be removed after initial setup
+2. Creat IAM policy _**AmazonManagedBlockchainControlPolicy**_ and role _**ServiceLinkedRoleForAmazonManagedBlockchain**_ - AdministratorAccess to be removed after initial setup
 https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/02-iam-configuration
 
-3. Modified Cloud9 IAM role https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/03-attach-machine-role
+3. Modify Cloud9 IAM role https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/03-attach-machine-role
 
 ## Fabric Client setup on Cloud9
 https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/02-set-up-a-fabric-client
